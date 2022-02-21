@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Akash2790/sorting_visualizer/static/css/main.1ce6b896.chunk.css",
+    "main.js": "/Akash2790/sorting_visualizer/static/js/main.92149a82.chunk.js",
+    "main.js.map": "/Akash2790/sorting_visualizer/static/js/main.92149a82.chunk.js.map",
+    "runtime-main.js": "/Akash2790/sorting_visualizer/static/js/runtime-main.5724e516.js",
+    "runtime-main.js.map": "/Akash2790/sorting_visualizer/static/js/runtime-main.5724e516.js.map",
+    "static/js/2.aa437015.chunk.js": "/Akash2790/sorting_visualizer/static/js/2.aa437015.chunk.js",
+    "static/js/2.aa437015.chunk.js.map": "/Akash2790/sorting_visualizer/static/js/2.aa437015.chunk.js.map",
+    "static/js/3.296bd340.chunk.js": "/Akash2790/sorting_visualizer/static/js/3.296bd340.chunk.js",
+    "static/js/3.296bd340.chunk.js.map": "/Akash2790/sorting_visualizer/static/js/3.296bd340.chunk.js.map",
+    "index.html": "/Akash2790/sorting_visualizer/index.html",
+    "static/css/main.1ce6b896.chunk.css.map": "/Akash2790/sorting_visualizer/static/css/main.1ce6b896.chunk.css.map",
+    "static/js/2.aa437015.chunk.js.LICENSE.txt": "/Akash2790/sorting_visualizer/static/js/2.aa437015.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5724e516.js",
+    "static/js/2.aa437015.chunk.js",
+    "static/css/main.1ce6b896.chunk.css",
+    "static/js/main.92149a82.chunk.js"
+  ]
+}
